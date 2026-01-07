@@ -1,4 +1,4 @@
-<h1 align="left">Nyo-ho 👋</h1>
+<h1 align="left">Hello fella! 👋</h1>
 
 ###
 
